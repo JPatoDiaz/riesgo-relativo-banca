@@ -53,6 +53,10 @@ El desarrollo del proyecto se llevo a través de las siguientes fases
 -   Construcción de dashboard.
 -   Presentación de resultados con stakeholders.
 
+## Imágenes de resultados
+
+![enter image description here](https://github.com/JPatoDiaz/riesgo-relativo-banca/blob/main/assets/RelativeRisk1.png)
+
 
 ## Archivos
 

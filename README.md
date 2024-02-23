@@ -39,7 +39,7 @@ Adicional, se busco validar las siguientes hipótesis:
 ### Lenguajes
 
 - SQL
-- Phyton
+- Python
 
 ## ¿Cuál fue el proceso de trabajo?  
 
